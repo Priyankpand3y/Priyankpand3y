@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyankpand3y
+- 👋 Hi, I’m Priyank ( @Priyankpand3y )
 - 👀 I’m interested in web dev/AI
 - 🌱 I’m currently learning web dev & competitive programming
 - 💞️ I’m looking to collaborate on any web dev tech
